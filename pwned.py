@@ -1,3 +1,6 @@
+#TMFS24 05/2019
+#Calls Troy Hunt's pwnedpassword API see: https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/#cloudflareprivacyandkanonymity
+
 from getpass import getpass
 import hashlib
 import requests
